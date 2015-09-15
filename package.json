@@ -1,0 +1,29 @@
+{
+  "name": "future-utils",
+  "version": "0.1.0",
+  "description": "Create futures from other async standards",
+  "main": "lib/future-utils.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLudd/future-utils.git"
+  },
+  "keywords": [
+    "future",
+    "functional programming",
+    "monads",
+    "fantasy-land"
+  ],
+  "author": "Ludwig Magnusson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLudd/future-utils/issues"
+  },
+  "homepage": "https://github.com/TheLudd/future-utils#readme",
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "ramda-fantasy": "^0.4.0"
+  }
+}
