@@ -1,6 +1,6 @@
 {
   "name": "future-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create futures from other async standards",
   "main": "lib/future-utils.js",
   "scripts": {
